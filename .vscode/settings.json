@@ -10,6 +10,15 @@
     "web": true,
     ".vscode": true,
     "android": true,
-    "ios": true
+    "ios": true,
+    "auth\\.gitignore": true,
+    "auth\\.dart_tool": true,
+    "auth\\.idea": true,
+    "auth\\.metadata": true,
+    "auth\\.packages": true,
+    "auth\\auth.iml": true,
+    "auth\\CHANGELOG.md": true,
+    "auth\\pubspec.lock": true,
+    "auth\\LICENSE": true
   }
 }
